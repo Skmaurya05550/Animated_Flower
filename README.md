@@ -1,4 +1,6 @@
 # Flower Animation
+![17325056449706630951910485232880](https://github.com/user-attachments/assets/d9affaa7-4a32-47c6-ae42-e32e01262db4)
+
 
 This project showcases a beautiful rotating flower animation using HTML, CSS, and JavaScript. The flowers are designed with colorful dots that rotate and scale in a mesmerizing pattern.
 
