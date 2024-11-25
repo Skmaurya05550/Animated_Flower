@@ -19,8 +19,6 @@ This project showcases a beautiful rotating flower animation using HTML, CSS, an
 1. Clone the repository or download the source code.
 2. Open the `index.html` file in your browser to view the animation.
 
-## File Structure
-
 ## Preview
 
 You can preview the animation by opening the `index.html` file in any modern browser.
